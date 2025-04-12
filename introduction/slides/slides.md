@@ -8,9 +8,6 @@ size: 16:9
 
 # Introduction to RESTful API Workshop 🚀
 
-## A Three-Session Journey
-
-**Duration:** 3 sessions x 2 hours each
 **Presenter:** *Alberto Camarena*
 **Date:** 12/04/25 📅
 
