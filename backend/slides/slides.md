@@ -73,5 +73,3 @@ app.listen(3000, () => {
 - Review challenges and debugging tips
 - Explore middleware options (logging, security)
 - Open floor for questions
-
----
